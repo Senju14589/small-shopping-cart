@@ -2,7 +2,7 @@ const data = {
   products: [
     {
       id: '1',
-      name: 'NFT : Mr.Macong',
+      name: 'NFT : electric train',
       price: 0.65,
       image: 'https://cdn.vox-cdn.com/thumbor/9LceT_Csp47cr7Huai1lAP_3txs=/0x0:1380x1728/1120x0/filters:focal(0x0:1380x1728):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22341226/Screen_Shot_2021_03_02_at_3.43.12_PM.png',
     },
@@ -14,9 +14,9 @@ const data = {
     },
     {
       id: '3',
-      name: 'NFT : Mr.Maboro',
+      name: 'NFT : My bedroom',
       price: 0.56,
-      image: 'https://picsum.photos/id/1https://scontent.fbkk5-3.fna.fbcdn.net/v/t39.30808-6/258601495_1142652583170427_7990272717370642685_n.jpg?_nc_cat=111&_nc_rgb565=1&ccb=1-5&_nc_sid=b9115d&_nc_eui2=AeFl8AJCOHN2FRDdBiCOIDklujWwC3_NOWy6NbALf805bB1dLvvrzT-3Hth6jd4RHV58Y65Et0HLZaSPOHjiMDYV&_nc_ohc=_q2kzGUG0C4AX_yl2J8&_nc_ht=scontent.fbkk5-3.fna&oh=b37d64cfd35b68f3d423ad125cbdf7f9&oe=61A00EA402/4320/3240',
+      image: 'https://scontent.fbkk5-4.fna.fbcdn.net/v/t39.30808-6/236891932_1216129078849948_1832312030870209342_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFSoWIx6JEDDl8BC3gt1XYIVIH6CvyIn2xUgfoK_IifbNyBkEf2oypxMmo5KKKit97tHDoRYJMnCmfZifILMHoW&_nc_ohc=IMZOVk8RszsAX_8i7oR&_nc_ht=scontent.fbkk5-4.fna&oh=9c588dc79091c255e776890cce11f516&oe=619EFC6F',
     },
   ],
 };
